@@ -1,0 +1,8 @@
+C:\Users\Sven\source\Repos\Saftfresse\Learning\CSharpLearning1\bin\Debug\CSharpLearning1.exe.config
+C:\Users\Sven\source\Repos\Saftfresse\Learning\CSharpLearning1\bin\Debug\CSharpLearning1.exe
+C:\Users\Sven\source\Repos\Saftfresse\Learning\CSharpLearning1\bin\Debug\CSharpLearning1.pdb
+C:\Users\Sven\source\Repos\Saftfresse\Learning\CSharpLearning1\obj\Debug\CSharpLearning1.csproj.AssemblyReference.cache
+C:\Users\Sven\source\Repos\Saftfresse\Learning\CSharpLearning1\obj\Debug\CSharpLearning1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sven\source\Repos\Saftfresse\Learning\CSharpLearning1\obj\Debug\CSharpLearning1.csproj.CoreCompileInputs.cache
+C:\Users\Sven\source\Repos\Saftfresse\Learning\CSharpLearning1\obj\Debug\CSharpLearning1.exe
+C:\Users\Sven\source\Repos\Saftfresse\Learning\CSharpLearning1\obj\Debug\CSharpLearning1.pdb
